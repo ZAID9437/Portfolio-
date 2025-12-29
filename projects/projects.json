@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Domino's (Pizza Ordering Clone)",
+    "desc": "A Domino's-style pizza ordering demo with responsive menu browsing, customizable pizza builder,shopping cart. Built for learning/demo purposes only — not affiliated with Domino's.",
+    "image": "dominos-demo.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://domino-s-clone-iota.vercel.app/",
+      "code": "https://github.com/ZAID9437/Domino-s-Clone-"
+    }
+  },
+  {
+    "name": "7-Wonders",
+    "desc": "Explore the New 7 Wonders of the World through this interactive website. Featuring stunning visuals and smooth animations, it offers a captivating virtual tour. Discover key facts and history about each monument with a clean, responsive design.",
+    "image": "7-wonder.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/ZAID9437/7-Wonder"
+    }
+  },
+  {
+    "name": "Real Estate",
+    "desc": "A full-stack real estate platform built with a modern front-end using HTML, CSS, JS, and Bootstrap. The back-end, powered by PHP, dynamically manages property listings stored in a MySQL database.",
+    "image": "Real_Estate.jpg",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website 1",
+    "desc": "A personal portfolio website showcasing projects, skills, and contact information with responsive design.",
+    "image": "Portfolio1.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website 2",
+    "desc": "A personal portfolio website showcasing projects, skills, and contact information with responsive design.",
+    "image": "Portfolio.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
