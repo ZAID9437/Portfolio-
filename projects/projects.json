@@ -35,8 +35,8 @@
     "image": "Portfolio1.jpg",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://zaid-mansuri-portfolio.vercel.app/",
+      "code": "https://github.com/ZAID9437/Portfolio-/"
     }
   },
   {
@@ -49,4 +49,5 @@
       "code": "#"
     }
   }
+
 ]
