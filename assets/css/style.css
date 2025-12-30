@@ -737,6 +737,15 @@ body.dark-mode .home #particles-js canvas {
 }
 
 /* skills media queries starts*/
+@media screen and (max-width: 991px) {
+  .skills .container .row {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 2rem;
+    padding: 2rem 0.2rem;
+    gap: 1.5rem;
+  }
+}
+
 @media screen and (max-width: 600px) {
   .skills .container {
     padding: 0;
@@ -1390,26 +1399,51 @@ form .button-area {
 }
 
 /* contact section media queries starts */
+/* contact section media queries starts */
+@media (max-width: 1050px) {
+  .contact .container {
+    width: 90%;
+    margin: 2rem auto;
+  }
+}
+
 @media (max-width: 900px) {
   .contact {
     min-height: 70vh;
   }
 
   .contact .container {
-    margin: 3rem 0 2rem 0;
+    margin: 3rem auto 2rem auto;
   }
 
   .contact .container .content {
     padding: 18px 12px;
+    flex-direction: column;
   }
 
   .contact .content .image-box {
-    display: none;
+    display: block;
+    max-width: 100%;
+    margin-left: 0;
+    margin-bottom: 2rem;
+  }
+
+  .contact .content .image-box img {
+    height: 25rem;
+    width: auto;
+    display: block;
+    margin: 0 auto;
   }
 
   .contact .content form {
     width: 100%;
-    margin-right: 2rem;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 450px) {
+  .contact .content .image-box {
+    display: none;
   }
 }
 
